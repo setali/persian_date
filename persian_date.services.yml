@@ -1,0 +1,3 @@
+services:
+ persian_date.get_jalali:
+   class: Drupal\persian_date\PersianDate

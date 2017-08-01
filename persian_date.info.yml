@@ -1,0 +1,5 @@
+name: Persian date
+type: module
+description: The module provide a service for convert gregorian date to jalai.
+core: 8.x
+package: Date
